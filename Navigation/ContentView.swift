@@ -12,7 +12,7 @@ struct ContentView: View {
         
         NavigationStack {
             VStack {
-                Text("This is the root view 🌳")
+                Text("This is the root view")
                     .fontWeight(.bold)
                 
                     .toolbar {
